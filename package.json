@@ -1,0 +1,27 @@
+{
+  "name": "tea.uruk",
+  "version": "1.0.0",
+  "description": "tea is best",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/URUK98/tea.uruk.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "URUK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/URUK98/tea.uruk/issues"
+  },
+  "homepage": "https://github.com/URUK98/tea.uruk#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
