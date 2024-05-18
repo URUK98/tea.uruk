@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/URUK98/tea.uruk#readme",
   "dependencies": {
+    "git": "^0.1.5",
     "lodash": "^4.17.21"
   },
   "scripts": {
